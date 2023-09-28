@@ -3,6 +3,19 @@
 ## Author: DI STASIO DOMENICO 
 
 ## WARNING: TO RUN THIS PROJECT FOLLOW THE INSTRUCTION
+- Install NodeJS
+- Install NPM
+
+- Go in Client
+- npm install
+- Go in Server
+- npm install
+
+- Go in Client 
+- npm run dev
+- Go in Server
+- node index.js
+
 
 ## React Client Application Routes
 
