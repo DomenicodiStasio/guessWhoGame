@@ -1,0 +1,5 @@
+.disabled-image {
+    filter: grayscale(100%); /* Converte l'immagine in scala di grigi al 100% */
+    opacity: 0.5; /* Imposta l'opacità dell'immagine al 50% (puoi personalizzare) */
+    pointer-events: none; /* Impedisce eventi del mouse sull'immagine */
+  }

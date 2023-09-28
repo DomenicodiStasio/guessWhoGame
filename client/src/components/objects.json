@@ -1,0 +1,24 @@
+[
+{
+    "id": 0,
+    "date": "12-07-2023",
+    "level": "easy",
+    "secretObject": "mela",
+    "score": "1197"
+},
+{
+    "id": 1,
+    "date": "22-01-2023",
+    "level": "hard",
+    "secretObject": "banana",
+    "score": "23"
+}
+,
+{
+    "id": 2,
+    "date": "12-07-2023",
+    "level": "medium",
+    "secretObject": "pera",
+    "score": "54"
+}
+]
